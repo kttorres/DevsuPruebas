@@ -1,5 +1,7 @@
 # DevsuPruebas
 
+El primer paso es Clonar o descargar el archivo "PRUEBAS.rar"
+
 # Instrucciones para Ejecutar Pruebas en Cypress
 
 Estas instrucciones te guiarán a través del proceso de configuración y ejecución de pruebas automatizadas en Cypress para el proyecto.
