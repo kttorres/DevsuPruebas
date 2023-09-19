@@ -1,0 +1,20 @@
+# Conclusiones de las Prueba 2
+
+Todas las pruebas automatizadas en Cypress se han ejecutado con éxito, lo que indica un comportamiento correcto de las funciones de registro e inicio de sesión en la aplicación.
+
+## Registro de Usuario
+
+1. La prueba "debería crear un nuevo usuario" se ejecutó con éxito. Esto significa que el proceso de registro permite crear nuevos usuarios de manera adecuada.
+
+2. La prueba "debería mostrar un mensaje de error si el usuario ya existe" se ejecutó con éxito. La aplicación muestra un mensaje de error cuando se intenta registrar un usuario que ya existe en la base de datos.
+
+## Inicio de Sesión
+
+3. La prueba "debería mostrar un mensaje de error con usuario incorrecto" se ejecutó con éxito. La aplicación muestra un mensaje de error cuando se intenta iniciar sesión con un usuario incorrecto.
+
+4. La prueba "debería permitir iniciar sesión con un usuario y contraseña correctos" se ejecutó con éxito. Esto confirma que el proceso de inicio de sesión permite acceder a los usuarios con credenciales correctas.
+
+En resumen, todas las funcionalidades relacionadas con el registro e inicio de sesión en la aplicación han sido probadas y funcionan como se espera. No se han identificado problemas ni fallos en estas áreas durante las pruebas automatizadas.
+
+El proyecto está en buen estado y las pruebas han sido exitosas.
+
