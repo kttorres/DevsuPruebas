@@ -1,0 +1,21 @@
+Conclusiones del Proyecto de Pruebas Automatizadas
+
+En este proyecto, se llevaron a cabo pruebas automatizadas del flujo de compra en la página web https://www.demoblaze.com/ utilizando Cypress. A continuación, se presentan las principales conclusiones:
+
+1. Ejecución Exitosa de Pruebas: Se logró ejecutar con éxito las pruebas automatizadas de extremo a extremo (E2E) del flujo de compra. Las pruebas pasaron sin errores significativos.
+
+2. Validación de Escenarios Clave: Las pruebas automatizadas permitieron validar escenarios clave del flujo de compra, incluyendo la adición de productos al carrito, visualización del carrito, completar el formulario de compra y finalizar la compra.
+
+3. Reportes de Pruebas: Se configuró y utilizó el reporter Mochawesome para generar informes detallados de las pruebas. Los informes proporcionaron una visión clara de los resultados de las pruebas.
+
+4. Cumplimiento de Requisitos: Las pruebas automatizadas ayudaron a verificar que la página web https://www.demoblaze.com/ cumple con los requisitos del flujo de compra, asegurando una experiencia de compra sin problemas para los usuarios.
+
+5. Identificación de Problemas: Durante las pruebas, se identificaron y documentaron algunos problemas menores, como problemas de formato y visualización en la página web. Estos problemas pueden ser abordados por el equipo de desarrollo.
+
+6. Eficiencia y Repetibilidad: Las pruebas automatizadas permiten ejecutar rápidamente escenarios de prueba y son altamente repetibles, lo que facilita la detección temprana de problemas y el ahorro de tiempo en las pruebas manuales.
+
+
+En resumen, las pruebas automatizadas realizadas con éxito en el proyecto demostraron su eficacia para verificar el flujo de compra en la página web. Estas pruebas proporcionan una base sólida para garantizar la calidad y la funcionalidad de la aplicación.
+
+
+
